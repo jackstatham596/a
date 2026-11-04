@@ -15,19 +15,19 @@
   </p>
 
   <p>
-    <a href="#-screenshots">Screenshots</a> •
-    <a href="#-features">Features</a> •
-    <a href="#-project-structure">Project Structure</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-download--installation">Download &amp; Installation</a> •
-    <a href="#-license">License</a>
+    <a href="#in-action">In Action</a> •
+    <a href="#why-synkrocontacts">Why SynkroContacts</a> •
+    <a href="#under-the-hood">Under the Hood</a> •
+    <a href="#built-with">Built With</a> •
+    <a href="#get-started">Get Started</a> •
+    <a href="#license--credits">License &amp; Credits</a>
   </p>
 
 </div>
 
 ---
 
-## 📸 Screenshots
+## In Action
 
 <table align="center">
   <tr>
@@ -54,7 +54,7 @@
 
 ---
 
-## ✨ Features
+## Why SynkroContacts
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
 
 ---
 
-## 🏗 Project Structure
+## Under the Hood
 
 SynkroContacts is built on **.NET 8** (`net8.0-windows10.0.19041.0`) and follows a clean **MVVM architecture** split across five well-defined projects:
 
@@ -96,7 +96,7 @@ SynkroContacts.sln
 
 ---
 
-## 🧰 Tech Stack
+## Built With
 
 | Package | Version | Purpose |
 | :--- | :---: | :--- |
@@ -106,7 +106,7 @@ SynkroContacts.sln
 
 ---
 
-## 🚀 Download & Installation
+## Get Started
 
 ### Option 1 — Download a Pre-built Release *(recommended)*
 1. Go to the [**Releases**](../../releases/latest) page.
@@ -132,9 +132,9 @@ SynkroContacts.sln
 
 ---
 
-## 📄 License
+## License & Credits
 
-This project is licensed under the [MIT License](LICENSE).
+SynkroContacts is released under the [MIT License](LICENSE) — free to use, modify, and distribute.
 
 <div align="center">
   <img src="assets/SynkroContacts-3D-Icon .png" width="52" />
