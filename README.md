@@ -110,7 +110,7 @@ SynkroContacts.sln
 
 ### Option 1 — Download a Pre-built Release *(recommended)*
 1. Go to the [**Releases**](../../releases/latest) page.
-2. Download the latest `SynkroContacts-win-x64.zip` archive.
+2. Download the latest `SynkroContacts-win-x64.rar` archive.
 3. Extract the archive and run **`SynkroContacts.exe`**.
 
 ### Option 2 — Build from Source *(for developers)*
