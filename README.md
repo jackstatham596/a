@@ -35,12 +35,20 @@
     <th>Gold Theme</th>
   </tr>
   <tr>
-    <td><img src="assets/contacts-blue.png" alt="Contacts - Blue Theme" width="100%" /></td>
-    <td><img src="assets/contacts-gold.png" alt="Contacts - Gold Theme" width="100%" /></td>
+    <td align="center">
+      <img src="assets/contacts-blue.png" alt="Contacts - Blue Theme" width="420" height="260" style="object-fit:cover; width:100%; height:260px;" />
+    </td>
+    <td align="center">
+      <img src="assets/contacts-gold.png" alt="Contacts - Gold Theme" width="420" height="260" style="object-fit:cover; width:100%; height:260px;" />
+    </td>
   </tr>
   <tr>
-    <td><img src="assets/companies-blue.png" alt="Companies - Blue Theme" width="100%" /></td>
-    <td><img src="assets/SynkroContacts_2.png" alt="Companies - Gold Theme" width="100%" /></td>
+    <td align="center">
+      <img src="assets/companies-blue.png" alt="Companies - Blue Theme" width="420" height="260" style="object-fit:cover; width:100%; height:260px;" />
+    </td>
+    <td align="center">
+      <img src="assets/SynkroContacts_2.png" alt="Companies - Gold Theme" width="420" height="260" style="object-fit:cover; width:100%; height:260px;" />
+    </td>
   </tr>
 </table>
 
