@@ -104,6 +104,6 @@ SynkroContacts.sln
 </div>
 
 <div align="center">
-  <img src="assets/SynkroContacts-3D-Icon.png" width="52" />
+  <img src="assets/SynkroContacts-3D-Icon .png" width="52" />
   <p><sub>Released under the MIT License • Engineered with C# & .NET 8</sub></p>
 </div>
