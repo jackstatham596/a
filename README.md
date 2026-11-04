@@ -6,18 +6,18 @@
   <p><b>A modern, fast, and offline-first Windows desktop app for managing contacts and companies.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
-    <img src="https://img.shields.io/badge/EF%20Core%20SQLite-8.0.11-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVVM%20Toolkit-8.3.2-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/vCard-7.2.1-0284C7?style=for-the-badge" />
+    <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Download Release" /></a>
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
+    <img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/EF%20Core%20SQLite-8.0.11-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/MVVM%20Toolkit-8.3.2-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="MVVM" />
   </p>
 
   <p>
     <a href="#-screenshots">Screenshots</a> •
     <a href="#-features">Features</a> •
     <a href="#-project-structure">Project Structure</a> •
-    <a href="#-getting-started">Getting Started</a>
+    <a href="#-download--installation">Download & Run</a>
   </p>
 
 </div>
@@ -82,13 +82,16 @@ SynkroContacts.sln
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Download & Installation
 
-### Requirements
-* **OS:** Windows 10 (version 1809+) or Windows 11 (`x64`)
-* **Tools:** [Visual Studio 2022](https://visualstudio.microsoft.com/) (with `.NET desktop development` workload) and [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+### Option 1: Download Pre-built Release (Recommended for Users)
+1. Go to the [**Releases**](../../releases/latest) page.
+2. Download the latest `SynkroContacts-win-x64.zip` archive.
+3. Extract the ZIP file and run **`SynkroContacts.exe`**.
 
-### How to Run
+### Option 2: Build from Source (For Developers)
+**Requirements:** Windows 10 (1809+) or Windows 11 (`x64`), [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0), and [Visual Studio 2022](https://visualstudio.microsoft.com/) (`.NET desktop development` workload).
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/jackstatham596/SynkroContacts.git
@@ -99,8 +102,12 @@ SynkroContacts.sln
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 <div align="center">
-  <p><sub>Licensed under the MIT License • Built with ❤️ using C# & .NET 8</sub></p>
+  <p><sub>Built with ❤️ using C# & .NET 8</sub></p>
 </div>
 
 <div align="center">
